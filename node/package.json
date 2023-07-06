@@ -1,0 +1,21 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "*",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "*",
+    "cors": "*",
+    "dotenv": "8.2.0",
+    "jsonwebtoken": "8.5.1",
+    "mysql2": "*",
+    "sequelize": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
